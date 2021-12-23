@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase</string>
+	<string name="name">Nome</string>
+    <string name="edit_name">Digite o nome do produto</string>
+    <string name="value">Valor</string>
+    <string name="edit_value">Digite o valor do produto</string>
+    <string name="lista">Lista de Produtos</string>
+    <string name="cadastrar">Cadastrar Produtos</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="editar_produto">Editar Produto</string>
+</resources>
